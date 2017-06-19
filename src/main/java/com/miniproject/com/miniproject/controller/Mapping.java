@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Created by STR02119 on 6/19/2017.
  */
 @Controller
-public class Mapping {
+public class Mapping {ๆไำๆไ
 
     @Value("${home.title:test}")
     private String title = "";
